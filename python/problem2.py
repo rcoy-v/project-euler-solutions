@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 def fibonacci(limit):
     a, b = 1, 2
     while a < limit:
